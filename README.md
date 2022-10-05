@@ -12,8 +12,8 @@
 4. 各入力ボックスに必要な情報を入力することによって、計算を行えます
 
 ## スクリーンショット
-![20221006023101](https://user-images.githubusercontent.com/97399080/194127579-500a4580-20c8-4c16-8fb3-ccb9eac24496.png)
-###### 注意：スクリーンショットはv1.0.0のものになります。
+![20221006045023](https://user-images.githubusercontent.com/97399080/194150406-de5f9eb9-df5f-4d20-add4-81f18ad78dcd.png)
+###### 注意：スクリーンショットはv1.0.1のものになります。
 
 ## 連絡
 バグ報告などご連絡がある場合は、[製作者のTwitter](https://twitter.com/oyamelon)にお願いいたします。
