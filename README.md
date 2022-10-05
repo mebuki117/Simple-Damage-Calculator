@@ -14,6 +14,9 @@
 ![20221006023101](https://user-images.githubusercontent.com/97399080/194127579-500a4580-20c8-4c16-8fb3-ccb9eac24496.png)
 ###### 注意：スクリーンショットはv1.0.0のものになります。
 
+## 連絡
+バグ報告などご連絡がある場合は、[製作者のTwitter](https://twitter.com/oyamelon)にお願いいたします。
+
 ## クレジット
 以下のサイトのものを参考及び、使用させていただいています。
 - [ポケモンWiki](https://wiki.xn--rckteqa2e.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
