@@ -6,9 +6,9 @@
 3つまで計算を行えます。また、乱数のダメージが見やすいのが特徴です。
 
 ## 使い方
-1. [リリース](https://github.com/oyamelon/Simple-Damage-Calculator/releases)から、 Simple_Damage_Calculator_vx.x.x.zip をダウンロードします
-2. お使いのWindowsに.NET Framework 4.8のランタイムがインストールされていない場合は、[ここ](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48)からランタイムをダウンロード及び、インストールしてください
-3. ダウンロードしたzipファイルを解凍し、Simple Damage Calculator.exeを起動します（起動時、Windowsによって保護される可能性があります）
+1. [リリース](https://github.com/oyamelon/Simple-Damage-Calculator/releases)から、 ```vx.x.x.zip``` をダウンロードします
+2. お使いのWindowsに```.NET Framework 4.8```のランタイムがインストールされていない場合は、[ここ](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48)からランタイムをダウンロード及び、インストールしてください
+3. ダウンロードしたzipファイルを解凍し、```Simple Damage Calculator.exe```を起動します（起動時、Windowsによって保護される可能性があります）
 4. 各入力ボックスに必要な情報を入力することによって、計算を行えます
 
 ## スクリーンショット
